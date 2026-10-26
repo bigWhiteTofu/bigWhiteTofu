@@ -4,13 +4,13 @@ I build practical tools for learning and research.
 
 ## Featured project
 
-### [FableLab](https://github.com/bigWhiteTofu/FableLab)
+### [FableLab](https://github.com/777spider/FableLab)
 
 **Read the story. Unpack the concept.**
 
 A self-hostable, Chinese-first learning app: follow a fable in text or illustrated pages, connect it to the formal concept, and explore practice and discussion. Private bookshelves, resumable generation, and revocable sharing are included.
 
-[Try a public example](https://yuyan.aiecnu.site/learn?demo=1&mode=comic) · [中文介绍](https://github.com/bigWhiteTofu/FableLab/blob/main/README.zh-CN.md) · [Source code · MIT](https://github.com/bigWhiteTofu/FableLab)
+[Try a public example](https://yuyan.aiecnu.site/learn?demo=1&mode=comic) · [中文介绍](https://github.com/777spider/FableLab/blob/main/README.zh-CN.md) · [Source code · MIT](https://github.com/777spider/FableLab)
 
 ## Research materials
 
